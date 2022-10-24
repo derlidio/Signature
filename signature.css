@@ -3,8 +3,8 @@
     -webkit-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    width: 512px;
-    height: 128px;
+    width: 25em;
+    height: 10em;
     background-color: lightgray;
     border: 1px solid black;
     cursor: crosshair;
